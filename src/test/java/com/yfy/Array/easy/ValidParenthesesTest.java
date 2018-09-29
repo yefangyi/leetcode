@@ -1,5 +1,6 @@
-package com.yfy.Array;
+package com.yfy.Array.easy;
 
+import com.yfy.Array.easy.ValidParentheses;
 import org.junit.Assert;
 import org.junit.Test;
 

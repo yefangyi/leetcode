@@ -1,4 +1,4 @@
-package com.yfy.Array;
+package com.yfy.Array.easy;
 
 import java.util.Arrays;
 
